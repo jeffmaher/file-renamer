@@ -15,14 +15,14 @@ options:
 
 Example:
 
-	`python3 file-renamer.py append somdir newdir ".*\.xml$" "_newname" -e`
+	python3 file-renamer.py append somdir newdir ".*\.xml$" "_newname" -e
 
 	Files Before:
-		`somedir/data1.xml
+		somedir/data1.xml
 		somedir/data2.xml
 		somedir/image.jpg`
 
 	Files After:
-		`newdir/data1_newname.xml
+		newdir/data1_newname.xml
 		newdir/data2_newname.xml
-		somedir/image.jpg`
+		somedir/image.jpg
