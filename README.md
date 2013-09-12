@@ -15,7 +15,7 @@ options:
 
 Example:
 
-	python3 file-renamer.py append somdir newdir ".*\.xml$" "_newname" -e
+	python3 file-renamer.py append somedir newdir ".*\.xml$" "_newname" -e
 
 	Files Before:
 		somedir/data1.xml
