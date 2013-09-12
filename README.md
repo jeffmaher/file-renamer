@@ -8,10 +8,10 @@ Usage
 `python3 file-renamer.py <command> <input directory> <output directory> <file name pattern> <text> <options>`
 
 command:
-	`append`: Places the `<text>` argument at the end of the file name
+- `append`: Places the `<text>` argument at the end of the file name
 
 options:
-	`-e`, `--ext`: Performs the command on the part of the filename prior to the file extension
+- `-e`, `--ext`: Performs the command on the part of the filename prior to the file extension
 
 Example:
 
