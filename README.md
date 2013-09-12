@@ -20,7 +20,7 @@ Example:
 	Files Before:
 		somedir/data1.xml
 		somedir/data2.xml
-		somedir/image.jpg`
+		somedir/image.jpg
 
 	Files After:
 		newdir/data1_newname.xml
